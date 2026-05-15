@@ -1,5 +1,5 @@
 looker.visualization.register({
-    id: "advanced_expanded_matrix_v3",
+    id: "advanced_expanded_matrix_v2",
     label: "Dynamic N-Level Matrix",
     options: {
         show_subtotals: {
