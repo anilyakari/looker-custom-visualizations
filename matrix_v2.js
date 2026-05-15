@@ -1,4 +1,4 @@
-looker.visualization.register({
+looker.visualization.add({
     id: "advanced_expanded_matrix_v2",
     label: "Dynamic N-Level Matrix",
     options: {
